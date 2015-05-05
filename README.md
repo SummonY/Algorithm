@@ -1,5 +1,6 @@
 # Algorithm
 
 
-# Project Euler
-    *URL: https://projecteuler.net/
+
+## Project Euler
+    URL: https://projecteuler.net/
