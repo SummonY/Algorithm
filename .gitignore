@@ -1,0 +1,7 @@
+# ignore binary/compiled files
+*.[oa]
+
+# ignore vim files
+.*.swp
+
+
