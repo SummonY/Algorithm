@@ -1,7 +1,8 @@
 # Algorithm
-    OJ
+    Data Struct and OJ.
 
-
+## Data Struct
+    
 ## Project Euler
     URL: https://projecteuler.net/
 
